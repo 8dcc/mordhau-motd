@@ -1,4 +1,4 @@
 # **Use the flourish (x + 1) emote to duel.**
 
-![img](https://raw.githubusercontent.com/8dcc/mordhau-motd/main/daddy.png)
-![img](https://raw.githubusercontent.com/8dcc/mordhau-motd/main/pete.jpg)
+![ ](https://raw.githubusercontent.com/8dcc/mordhau-motd/main/daddy.png)
+![ ](https://raw.githubusercontent.com/8dcc/mordhau-motd/main/pete.jpg)
